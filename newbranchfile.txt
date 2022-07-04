@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is duplicate to create conflict and is under Develop Branch
+=======
+this is a new branch test file
+>>>>>>> newbranch
