@@ -1,0 +1,9 @@
+Commands used to resolve conflict
+
+$ git merge newbranch
+< doesnt merge because of confict
+
+Resolve the conflict by updating the file with only one file content
+
+$ git add nwebranchfile.txt
+$git commit -m 'create merge conflict' 
